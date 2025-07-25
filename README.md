@@ -1,6 +1,11 @@
-# ¡Hola, soy Germán Sosa! 👋
+<h1 align="center">¡Hola, soy Germán Sosa! 👋</h1>
 
 <p align="center">💻 Backend Developer | 🧠 Aprendiz constante</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gersosa-18&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/Gersosa-18?style=social" />
+</p>
 
 ---
 
@@ -40,10 +45,10 @@ Soy desarrollador backend apasionado por crear soluciones eficientes con Python,
 ## 🚀 Proyectos Destacados
 
 ### [Finz](https://github.com/Gersosa-18/finz) 📊
-**Aplicación para análisis financiero y alertas basadas en datos del mercado (En desarrollo)**
+**Aplicación para análisis financiero y alertas basadas en datos del mercado**
 
 **🛠️ Stack:** Python, FastAPI, MySQL  
-**📋 Estado actual:** Desarrollando el backend con APIs para análisis de datos financieros
+**📋 Funcionalidades:** Backend con APIs para análisis de datos financieros y alertas automáticas
 
 ---
 
@@ -67,26 +72,15 @@ Soy desarrollador backend apasionado por crear soluciones eficientes con Python,
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gersosa-18&show_icons=true&theme=dark&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gersosa-18&layout=compact&theme=dark" height="150" />
 </p>
-
----
-
-## 📈 Actividad Semanal (via WakaTime)
-
-<!--START_SECTION:waka-->
-```txt
-From: 18 July 2025 - To: 25 July 2025
-Total Time: 0 secs
-No activity tracked
-```
-<!--END_SECTION:waka-->
 
 ---
 
 ## 📫 Contacto
 
 <p align="center">
-  <a href="mailto:germanalejandrososa@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+  <a href="mailto:germanalejandrososa@hotmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
   <a href="https://www.linkedin.com/in/germán-sosa"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
   <a href="https://github.com/Gersosa-18"><img src="https://skillicons.dev/icons?i=github" height="30" /></a>
 </p>
