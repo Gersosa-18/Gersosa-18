@@ -1,0 +1,4 @@
+# Ignorar claves y configuraciones sensibles
+*.env
+secrets.yml
+.env.local
