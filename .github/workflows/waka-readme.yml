@@ -2,12 +2,11 @@ name: Actualizar WakaTime
 
 on:
   schedule:
-    - cron: "0 * * * *"  # Cada hora
+    - cron: "0 * * * *"  # Ejecutar cada hora
   workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Actualizar README con datos de WakaTime
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
